@@ -1,5 +1,3 @@
-# learning-notes
-Notes d'étude — Network+, Security+, Cloud
 # Learning Notes — Cloud · Networks · Cybersecurity
 
 Personal study notes for CompTIA Network+ and Security+ certifications,
